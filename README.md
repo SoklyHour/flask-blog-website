@@ -14,6 +14,7 @@ First, install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
 ```
+This will install all the necessary Python packages for the application.
 ### 2. Setup Database
 
 Once the dependencies are installed, initialize the database by running:
