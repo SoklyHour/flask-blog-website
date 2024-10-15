@@ -1,4 +1,3 @@
-
 # flask-blog-website
 This will follow the tutorial at: https://flask.palletsprojects.com/en/3.0.x/tutorial/
 
@@ -33,5 +32,4 @@ This will start the Flask development server. The application will be accessible
 ```bash
 http://127.0.0.1:5000/
 ```
-=======
 
