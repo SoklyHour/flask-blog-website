@@ -16,3 +16,7 @@ pip install -r requirements.txt
 ```
 ### 2. Setup Database
 
+Once the dependencies are installed, initialize the database by running:
+
+
+
