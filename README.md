@@ -33,9 +33,4 @@ This will start the Flask development server. The application will be accessible
 http://127.0.0.1:5000/
 ```
 
-<<<<<<< HEAD
-=======
-This will follow the tutorial at:
-https://flask.palletsprojects.com/en/3.0.x/tutorial/
 
->>>>>>> 9d662e6 (add)
