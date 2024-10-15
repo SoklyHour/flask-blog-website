@@ -24,3 +24,11 @@ flask --app flaskr init-db
 ```
 This command will set up the necessary database tables.
 ### 3. Executing the Program
+After setting up the database, you can run the application by executing the following command:
+```bash
+flask --app flaskr run
+```
+This will start the Flask development server. The application will be accessible at:
+```bash
+http://127.0.0.1:5000/
+```
