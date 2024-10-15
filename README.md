@@ -1,5 +1,5 @@
 # flask-blog-website
-
+This will follow the tutorial at: https://flask.palletsprojects.com/en/3.0.x/tutorial/
 # Flask Application
 
 ## Getting Started
@@ -12,6 +12,6 @@ First, install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-This will follow the tutorial at: https://flask.palletsprojects.com/en/3.0.x/tutorial/
+
 
 
