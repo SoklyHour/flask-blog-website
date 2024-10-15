@@ -18,5 +18,7 @@ pip install -r requirements.txt
 
 Once the dependencies are installed, initialize the database by running:
 
-
-
+```bash
+flask --app flaskr init-db
+```
+This command will set up the necessary database tables.
