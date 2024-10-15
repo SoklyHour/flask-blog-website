@@ -13,6 +13,5 @@ First, install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-
-
+### 2. Setup Database
 
